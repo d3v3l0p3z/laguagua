@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javierlopezdeancos/laguagua.git"
+    "url": "git+https://github.com/d3v3l0p3z/laguagua.git"
   },
   "keywords": [
     "typescript",
@@ -37,9 +37,9 @@
   "author": "Javier Lopez de Ancos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javierlopezdeancos/laguagua/issues"
+    "url": "https://github.com/d3v3l0p3z/laguagua/issues"
   },
-  "homepage": "https://github.com/javierlopezdeancos/laguagua#readme",
+  "homepage": "https://github.com/d3v3l0p3z/laguagua#readme",
   "dependencies": {
     "cologrinchis": "^0.1.2"
   },
